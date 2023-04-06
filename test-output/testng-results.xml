@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-09T15:19:45 IST" name="Default suite" finished-at="2023-03-09T15:19:48 IST" duration-ms="3528">
+    <groups>
+    </groups>
+    <test started-at="2023-03-09T15:19:45 IST" name="Default test" finished-at="2023-03-09T15:19:48 IST" duration-ms="3528">
+      <class name="LibraryApiTest">
+        <test-method signature="postapi()[pri:0, instance:LibraryApiTest@49c7b90e]" started-at="2023-03-09T15:19:45 IST" name="postapi" finished-at="2023-03-09T15:19:48 IST" duration-ms="3479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postapi -->
+      </class> <!-- LibraryApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
